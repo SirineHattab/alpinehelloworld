@@ -1,6 +1,6 @@
 pipeline {
      environment {
-       ID_DOCKER = "sirinehttab"
+       ID_DOCKER = "sirinehattab"
        IMAGE_NAME = "alpinehelloworld"
        IMAGE_TAG = "latest"
 //       PORT_EXPOSED = "80" à paraméter dans le job
